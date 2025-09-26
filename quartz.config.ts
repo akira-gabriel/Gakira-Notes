@@ -95,3 +95,9 @@ const config: QuartzConfig = {
 }
 
 export default config
+
+// quartz.config.ts
+export const siteConfig = {
+  // ...
+  baseUrl: "/gakira-notes", 
+}
